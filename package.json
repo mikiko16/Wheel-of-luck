@@ -1,7 +1,7 @@
 {
   "name": "pixi-memory-card-game",
   "version": "0.1.0",
-  "description": "Just a simple pixi card memory game",
+  "description": "Just a simple wheel of luck game",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js"
